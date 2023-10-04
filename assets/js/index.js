@@ -7,3 +7,5 @@ let writer = respuesta("respuesta");
 
 console.log(writer);
 console.log("hola viajero");
+
+writer("YAAAAAAAAAAA")

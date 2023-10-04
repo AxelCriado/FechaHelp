@@ -4,6 +4,6 @@ function bisiesto(year) {
   } else {
     return false;
   }
-}
+};
 
 export { bisiesto };
